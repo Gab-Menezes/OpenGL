@@ -1,2 +1,2 @@
-# Graph3D
-3D Graph visualizer in c++ using OpenGL.
+# OpenGL
+Implementation of various OpenGL features, based on Learn OpenGL.
